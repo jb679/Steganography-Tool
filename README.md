@@ -1,1 +1,1 @@
-# Steganography-Tool
+This is a simple Python-based steganography tool that allows you to hide and extract secret messages within images using Tkinter for the GUI. The tool supports encoding text into an image and decoding hidden messages from an image.
